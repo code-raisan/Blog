@@ -1,4 +1,5 @@
 {
   "editor.fontSize": 18,
-  "workbench.colorTheme": "Community Material Theme Darker High Contrast"
+  "workbench.colorTheme": "Community Material Theme Darker High Contrast",
+  "window.menuBarVisibility": "classic"
 }

@@ -2,6 +2,10 @@
     "recommendations": [
         "equinusocio.vsc-community-material-theme",
         "pkief.material-icon-theme",
-        "editorconfig.editorconfig"
+        "editorconfig.editorconfig",
+        "bungcip.better-toml"
+    ],
+    "unwantedRecommendations": [
+        "ms-ceintl.vscode-language-pack-ja"
     ]
 }
